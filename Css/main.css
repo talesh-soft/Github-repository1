@@ -14,3 +14,15 @@ body
     font-family: myFont;
     src: url(Vazir-Bold.ttf);
 }
+
+a
+{
+  background-color: transparent !important;
+  cursor: pointer !important;
+}
+
+#T-Logo
+{
+  width: 100px;
+  height: 100px;
+}
