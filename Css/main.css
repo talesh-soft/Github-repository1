@@ -26,3 +26,9 @@ a
   width: 100px;
   height: 100px;
 }
+
+#menu a
+{
+    color: #fff;
+    text-decoration: none;
+}
